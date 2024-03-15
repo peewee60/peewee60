@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Austin Smith and I'm an aspiring Software Engineer.
 - 🔭 I’m currently working on TripleTen's Software Engineer bootcamp.
-- ⚡ Fun fact: I'm also a dog trainer
+
 
 <!--
 **peewee60/peewee60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
